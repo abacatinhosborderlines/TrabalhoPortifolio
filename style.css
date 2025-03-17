@@ -15,7 +15,7 @@ header {
 
 h1 {
     color: rgb(144, 233, 203);
-    font-size: 25px;
+    font-size: 22px;
     font-family: system-ui, 'Open Sans', 'Helvetica Neue', sans-serif 
 }
 
@@ -28,7 +28,7 @@ h1 {
 }
 
 .disciplinas li{
-    margin: 40px;
+    margin: 30px;
     justify-content: flex-end;
     list-style: none;
 
@@ -36,7 +36,7 @@ h1 {
 
 .disciplinas li a{
     text-decoration: none;
-    font-size: 12px;
+    font-size: 14px;
     font-family: system-ui, 'Open Sans', 'Helvetica Neue', sans-serif 
     color: rgb(27, 4, 63);
 }

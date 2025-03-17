@@ -68,7 +68,34 @@ padding: 10px 0;
     border-radius: 50%;
     transition: 0.3s ease;
 }
+#menu-bar{
+    z-index: 2;
+}
 
+.change-bg{
+    width: 550px;
+    height: 540px;
+    transform: translate(-60%,-30%);
+}
+.change .bar{
+    background-color: white;
+}
+
+.change #bar1{
+    transform:translateY(4px) rotateZ(-45deg)
+}
+
+.change #bar3{
+    transform: translateY(-6px) rotate(45deg);
+
+}
+.change #bar2{
+    opacity: 0;
+}
+
+.change{
+   display:block
+}
 
 h1 {
     color: rgb(144, 233, 203);

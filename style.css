@@ -35,7 +35,7 @@ header {
 
 }
 .nav li a{
-color: black;
+color: rgba(0, 0, 0, 0);
 text-decoration: none;
 }
 .nav li a:hover{
@@ -64,7 +64,7 @@ padding: 10px 0;
     width: 0;
     height: 0;
     margin: 25px 0 15px 15px;
-    background: radial-gradient(circle, #e94498, #b81568);
+    background: radial-gradient(circle, #16035a, #2d4cda);
     border-radius: 50%;
     transition: 0.3s ease;
 }

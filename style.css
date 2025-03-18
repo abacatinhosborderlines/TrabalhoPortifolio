@@ -64,7 +64,7 @@ padding: 10px 0;
     width: 0;
     height: 0;
     margin: 25px 0 15px 15px;
-    background: radial-gradient(circle, #16035a, #2d4cda);
+    background: radial-gradient(circle, #6853b3, #9aa8e7);
     border-radius: 50%;
     transition: 0.3s ease;
 }

@@ -126,9 +126,9 @@ h1 {
 }
 
 p{
-    background-color: rgb(49, 195, 214);
+    background-color: rgba(72, 219, 238, 0.747);
     font-size: 150%;
     width: 150%;
-    margin: 40px;
+    margin: 20px;
     padding: 20%;
 }

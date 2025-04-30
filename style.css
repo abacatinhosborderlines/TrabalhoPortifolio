@@ -124,3 +124,9 @@ h1 {
     font-family: system-ui, 'Open Sans', 'Helvetica Neue', sans-serif; 
     color: blue;
 }
+
+p{
+    width: 150%;
+    margin: 40px;
+    padding: 20%;
+}

@@ -26,7 +26,7 @@ h1 {
     align-items: stretch;
     justify-items: center;
     text-align: center
-    font-size: 30px;
+    font-size: 40px;
     width: 100%;
     display: grid; /*Habilita o layout em grid*/
     grid-template-columns: repeat(3, 1fr); /*Cria 3 colunas com a mesma largura*/

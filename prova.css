@@ -25,7 +25,7 @@ h1 {
 
 
 .container {
-    font-size: 50px;
+    font-size: 30px;
     width: 100%;
     display: grid; /*Habilita o layout em grid*/
     grid-template-columns: repeat(3, 1fr); /*Cria 3 colunas com a mesma largura*/

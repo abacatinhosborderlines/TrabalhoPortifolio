@@ -126,9 +126,10 @@ h1 {
 }
 
 p{
+    color: aliceblue;
     background-color: rgba(72, 219, 238, 0.747);
     font-size: 150%;
     width: 150%;
-    margin: 20px;
+    margin: 5px;
     padding: 20%;
 }

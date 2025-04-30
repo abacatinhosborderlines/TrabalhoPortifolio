@@ -22,3 +22,35 @@ h1 {
 #lab-nome{
     width: 80%;
 }
+
+
+.container {
+    margin: 0%;
+    align-items: stretch;
+    justify-items: center;
+    text-align: center;
+    font-size: 40px;
+padding: 10px;
+    display: grid; 
+    grid-template-columns: repeat(3, 1fr); 
+    width: 100%;
+}
+
+/*Estilos para os pilares*/
+.pilar1 { background-color: rgb(255, 255, 255); 
+    padding: 10px;
+    border: 2px solid black;
+    width: 100%;
+    align-items: center;
+}
+.pilar2 { background-color: rgb(255, 255, 255);
+    padding: 10px;
+    width: 100%;
+    border: 2px solid black;
+    align-items: center;
+ }
+.pilar3 { background-color: rgb(255, 255, 255); 
+    padding: 10px;
+    width: 100%;
+    border: 2px solid black;
+    align-items: center;}

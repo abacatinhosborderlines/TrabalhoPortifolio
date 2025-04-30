@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    width: 100%;
+    height: 80px;
+    background-color: rgb(224, 195, 28);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    color: rgb(161, 128, 18);
+    font-size: 28px;
+    font-family:'Georgia, Times, 'Times New Roman', sans-serif;
+}
+
+#mat-nome{
+    width: 80%;
+}

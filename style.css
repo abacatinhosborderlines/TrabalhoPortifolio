@@ -145,4 +145,5 @@ footer{
     background-color: rgb(238, 243, 245);
     color: rgb(21, 0, 112);
  display: flex;   
+ flex-wrap: nowrap;
 }

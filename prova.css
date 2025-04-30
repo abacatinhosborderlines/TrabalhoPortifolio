@@ -25,7 +25,7 @@ h1 {
 .container {
     align-items: stretch;
     justify-items: center;
-
+    text-align: center
     font-size: 30px;
     width: 100%;
     display: grid; /*Habilita o layout em grid*/

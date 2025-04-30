@@ -22,3 +22,15 @@ h1 {
 #mat-nome{
     width: 80%;
 }
+
+
+.container {
+    display: grid; /*Habilita o layout em grid*/
+    grid-template-columns: repeat(3, 1fr); /*Cria 3 colunas com a mesma largura*/
+    width: 100%;
+}
+
+/*Estilos para os pilares*/
+.pilar1 { background-color: lightblue; }
+.pilar2 { background-color: lightgreen; }
+.pilar3 { background-color: lightcoral; }

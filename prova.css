@@ -34,6 +34,11 @@ h1 {
 }
 
 /*Estilos para os pilares*/
-.pilar1 { background-color: lightblue; }
-.pilar2 { background-color: lightgreen; }
-.pilar3 { background-color: lightcoral; }
+.pilar1 { background-color: rgb(255, 255, 255); 
+    align-items: center;
+}
+.pilar2 { background-color: rgb(255, 255, 255);
+    align-items: center;
+ }
+.pilar3 { background-color: rgb(255, 255, 255); 
+    align-items: center;}

@@ -25,6 +25,7 @@ h1 {
 
 
 .container {
+    line-height: 100px;
     margin: 0%;
     align-items: stretch;
     justify-items: center;

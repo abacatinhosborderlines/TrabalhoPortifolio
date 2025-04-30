@@ -25,6 +25,7 @@ h1 {
 
 
 .container {
+    border: 2px solid black;
     align-items: center;
     font-size: 30px;
     width: 100%;

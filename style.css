@@ -139,7 +139,7 @@ p{
 
 }
 footer{
-    border: #000e4e 1px;
+    border: 1px solid black;
     text-align: center;
     background-color: rgb(238, 243, 245);
     color: rgb(21, 0, 112);

@@ -36,10 +36,13 @@ h1 {
 
 /*Estilos para os pilares*/
 .pilar1 { background-color: rgb(255, 255, 255); 
+    border: 2px solid black;
     align-items: center;
 }
 .pilar2 { background-color: rgb(255, 255, 255);
+    border: 2px solid black;
     align-items: center;
  }
 .pilar3 { background-color: rgb(255, 255, 255); 
+    border: 2px solid black;
     align-items: center;}
